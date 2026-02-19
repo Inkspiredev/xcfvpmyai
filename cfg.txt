@@ -1,0 +1,8 @@
+#profile-title:Xeno Corporation 
+#subscription-auto-update-open-enable: 1
+#profile-update-interval: 2
+#announce:VIP ⭐ - Гарантированно рабочие сервера
+#subscription-userinfo: upload=0; download=0; total=0; expire=64175760000
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@143.20.236.51:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%F0%9F%87%B7%F0%9F%87%BA%20Country%20ID%20-%20RU
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@87.229.97.141:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%F0%9F%87%A9%F0%9F%87%AA%20Country%20ID%20-%20DE
+vless://8e4fd6f9-90dd-44f0-a823-30ef5d6c188b@103.27.157.7:8080?path=%2Fupload&security=none&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Country%20ID%20-%20DE%20%232
