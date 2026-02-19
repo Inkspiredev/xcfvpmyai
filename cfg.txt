@@ -1,8 +1,10 @@
 #profile-title:Xeno Corporation 
 #subscription-auto-update-open-enable: 1
 #profile-update-interval: 2
-#announce:VIP ⭐ - Гарантированно рабочие сервера
+#announce:VIP ⭐ - Гарантированно рабочие сервера. Просьба не заходить в российские приложения при включеном VPN!
 #subscription-userinfo: upload=0; download=0; total=0; expire=64175760000
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@143.20.236.51:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%F0%9F%87%B7%F0%9F%87%BA%20Country%20ID%20-%20RU
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@87.229.97.141:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%F0%9F%87%A9%F0%9F%87%AA%20Country%20ID%20-%20DE
-vless://8e4fd6f9-90dd-44f0-a823-30ef5d6c188b@103.27.157.7:8080?path=%2Fupload&security=none&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Country%20ID%20-%20DE%20%232
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@143.20.236.51:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%F0%9F%87%B7%F0%9F%87%BA%20Country%20ID%20-%20RU%20%E2%80%A2%20VIP%20%E2%AD%90
+vless://a7e1d748-5afe-45f2-94b0-b96c48572622@snl35.linkey26.ru:8443?security=reality&encryption=none&pbk=wDQjzXYVtjdLkEyXpReh973y4rDIDH6kkX-g-MR7xAg&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=www.vk.com#%F0%9F%87%B3%F0%9F%87%B1%20Country%20ID%20-%20NL%20%E2%80%A2%20VIP%20%E2%AD%90
+vless://a7e1d748-5afe-45f2-94b0-b96c48572622@ger35.linkey21.ru:443?security=reality&encryption=none&pbk=d9CNFfj9MSMTuoiiTiOuAndeHzP2eaTvD5DO_QACnz0&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=www.vk.com#%F0%9F%87%A9%F0%9F%87%AA%20Country%20ID%20-%20DE%20%E2%80%A2%20VIP%20%E2%AD%90
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@87.229.97.141:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%F0%9F%87%A9%F0%9F%87%AA%20Country%20ID%20-%20DE%20%23NotVIP
+vless://8e4fd6f9-90dd-44f0-a823-30ef5d6c188b@103.27.157.7:8080?path=%2Fupload&security=none&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Country%20ID%20-%20DE%20%23NotVIP
