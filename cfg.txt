@@ -3,7 +3,7 @@
 #profile-update-interval: 2
 #announce:VIP ⭐ - Гарантированно рабочие сервера. Просьба не заходить в российские приложения при включеном VPN!
 #subscription-userinfo: upload=0; download=0; total=0; expire=64175760000
-vless://f56d3d08-ad0b-4f90-8dfc-21eeaecf075b@109.120.190.78:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=m.vk.com&sid=4a3ad88ff867a295#%F0%9F%87%B7%F0%9F%87%BA%20Country%20ID%20-%20RU%20%E2%80%A2%20VIP%20%E2%AD%90
+vless://2f7d7016-74e0-42d4-a0ac-6470322a4d33@31-wl.connect-opengate.ru:443?security=reality&encryption=none&pbk=9F_vT5oJmi-EEUkrQ4ykDrFFJLqPJ2zw3w-VHjnyY20&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=sun9-38.userapi.com&sid=14ee0c59550e3fb9#%F0%9F%87%B7%F0%9F%87%BA%20Country%20ID%20-%20RU%20%E2%80%A2%20VIP%20%E2%AD%90
 vless://a7e1d748-5afe-45f2-94b0-b96c48572622@snl35.linkey26.ru:8443?security=reality&encryption=none&pbk=wDQjzXYVtjdLkEyXpReh973y4rDIDH6kkX-g-MR7xAg&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=www.vk.com#%F0%9F%87%B3%F0%9F%87%B1%20Country%20ID%20-%20NL%20%E2%80%A2%20VIP%20%E2%AD%90
 vless://a7e1d748-5afe-45f2-94b0-b96c48572622@ger35.linkey21.ru:443?security=reality&encryption=none&pbk=d9CNFfj9MSMTuoiiTiOuAndeHzP2eaTvD5DO_QACnz0&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=www.vk.com#%F0%9F%87%A9%F0%9F%87%AA%20Country%20ID%20-%20DE%20%E2%80%A2%20VIP%20%E2%AD%90
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@87.229.97.141:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%F0%9F%87%A9%F0%9F%87%AA%20Country%20ID%20-%20DE%20%23NotVIP
