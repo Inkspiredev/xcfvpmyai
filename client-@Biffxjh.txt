@@ -2,7 +2,7 @@
 #subscription-auto-update-open-enable: 1
 #profile-update-interval: 2
 #announce:ID - @Biffxjh Просьба не заходить в российские приложения при включеном VPN!
-#subscription-userinfo: upload=0; download=0; total=0; expire=1772323200000
+#subscription-userinfo: upload=0; download=0; total=0; expire=1772409599
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@143.20.236.51:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🇷🇺 Россия (Ютуб без рекламы)
 vless://1728289c-723d-4132-b87b-35e03d91ca18@node5.triwords.online:443?security=reality&encryption=none&pbk=FDNVydlGzsQPCIZssIrw2MHl5tN937jYyqRVNBnGnk0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=87883dc7f1ec4145#🇳🇱 Нидерланды
 vless://1728289c-723d-4132-b87b-35e03d91ca18@node4.triwords.online:443?security=reality&encryption=none&pbk=4k2ehAwMYFuk1A0jyQ61hBrX1KiosVHcWIKyiIerp2c&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=e259f8387ae760db#🇫🇮 Финляндия
