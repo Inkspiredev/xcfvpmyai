@@ -1,0 +1,18 @@
+#profile-title:Xeno Corporation 
+#subscription-auto-update-open-enable: 1
+#profile-update-interval: 2
+#announce:Ваш ID - TVPGMCZH Просьба не заходить в российские приложения при включеном VPN!
+#subscription-userinfo: upload=0; download=0; total=0; expire=1772409599
+vless://34536d24-0423-441e-956d-3b585e3daeb1@84.201.131.144:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sun6-22.userapi.com&sid=d1579a8745398e34#🇷🇺 Россия (Ютуб без рекламы)
+vless://1728289c-723d-4132-b87b-35e03d91ca18@node5.triwords.online:443?security=reality&encryption=none&pbk=FDNVydlGzsQPCIZssIrw2MHl5tN937jYyqRVNBnGnk0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=87883dc7f1ec4145#🇳🇱 Нидерланды
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@87.229.108.135:5443?flow=xtls-rprx-vision&type=raw&security=reality&fp=chrome&sni=yandex.com&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a#🇳🇱 Нидерланды (Резерв)
+vless://1728289c-723d-4132-b87b-35e03d91ca18@node4.triwords.online:443?security=reality&encryption=none&pbk=4k2ehAwMYFuk1A0jyQ61hBrX1KiosVHcWIKyiIerp2c&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=e259f8387ae760db#🇫🇮 Финляндия
+vless://1728289c-723d-4132-b87b-35e03d91ca18@node3.triwords.online:443?security=reality&encryption=none&pbk=79iiR8pEIRbvsf5h5vt19lV1hBS96ksE9j0I_orZdiQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=991b16bd191bdb9a#🇸🇪 Швеция
+vless://1728289c-723d-4132-b87b-35e03d91ca18@node2.triwords.online:443?security=reality&encryption=none&pbk=MJxqDahOgbqbAzABEYPUv5x6ucv6xdLo8lSlszfB0FM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=5a70161202520213#🇩🇪 Германия
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@87.229.97.141:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🇩🇪 Германия (Резерв #1)
+vless://8e4fd6f9-90dd-44f0-a823-30ef5d6c188b@103.27.157.7:8080?path=%2Fupload&security=none&encryption=none&type=ws#🇩🇪 Германия (Резерв #2)
+vless://34536d24-0423-441e-956d-3b585e3daeb1@51.250.74.146:443?security=reality&encryption=none&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=d1579a8745398e34#🇷🇺 [LTE] #1
+vless://5cf4352d-4965-4166-87bd-66524e17a917@51.250.103.37:443?security=reality&encryption=none&pbk=NdsEcB_ts3yRYjovC8Ks4cpe56QWhot0D4njOApLeWI&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=x5.ru&sid=f4e2b8971d5c3a9f#🇷🇺 [LTE] #2
+vless://3742a868-c692-4364-ad9d-e80c6250cc6b@51.250.103.29:443?security=reality&encryption=none&pbk=LCxSn-zcFxBKKztCytR-Wzjt3VwezZs2jN6FtZPQ3n0&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru#🇷🇺 [LTE] #3
+vless://4237311d-ff08-4c81-a624-be3afeeb8e7e@51.250.22.148:8443?security=reality&encryption=none&pbk=ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=a1b2c3d4e5f6789a#🇷🇺 [LTE] #4
+vless://3742a868-c692-4364-ad9d-e80c6250cc6b@84.201.155.146:443?security=reality&encryption=none&pbk=CtX82DkTEpR5mNMPTpCHf2tkodeEDTjarulWEUUh4gY&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=sun6-21.userapi.com#🇷🇺 [LTE] #5
