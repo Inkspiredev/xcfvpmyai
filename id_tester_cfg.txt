@@ -3,8 +3,8 @@
 #profile-update-interval: 2
 #announce:Просьба не заходить в российские приложения при включеном VPN!
 #subscription-userinfo: upload=0; download=0; total=0; expire=64175760000
-per-app-proxy-mode: bypass
-per-app-proxy-list: ru.oneme.app,com.vkontakte.android
+#per-app-proxy-mode: bypass
+#per-app-proxy-list: ru.oneme.app,com.vkontakte.android
 vless://f380dfc6-41b7-44d2-a6b9-cf27fb05c8c9@ru02-vlr01.tcp-reset-club.net:443?mode=packet-up&path=%2Fassets%2Fv2%2Fpkg&security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&fp=random&spx=%2F&type=xhttp&sni=s3.netavex.com&sid=8453e5fd9af927#🇷🇺 Россия (Ютуб без рекламы)
 vless://1728289c-723d-4132-b87b-35e03d91ca18@node5.triwords.online:443?security=reality&encryption=none&pbk=FDNVydlGzsQPCIZssIrw2MHl5tN937jYyqRVNBnGnk0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=87883dc7f1ec4145#🇳🇱 Нидерланды
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@87.229.108.103:5443?flow=xtls-rprx-vision&type=raw&security=reality&fp=ios&sni=yandex.com&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a#🇳🇱 Нидерланды (Резерв)
