@@ -5,7 +5,7 @@
 #subscription-userinfo: upload=0; download=0; total=0; expire=64175760000
 #per-app-proxy-mode: bypass
 #per-app-proxy-list: ru.oneme.app,com.vkontakte.android
-vless://34d5723c-797d-45aa-9f94-a10df2457e11@ru.aliusvpn.ru:8443?type=tcp&security=reality&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=2356d1ae4b&fp=chrome&sni=aliusfilms.ru&flow=xtls-rprx-vision#🇷🇺 Россия (Ютуб без рекламы)
+vless://94377095-3c3e-4051-9f41-e42c71fdf1d4@ru-medium-node-1.micvpn.xyz:443?security=reality&encryption=none&pbk=ohJF9bPuINu1oKMowgoLQek0oZpJss-0Op30eBFNWEk&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=0123456789abcdef#🇷🇺 Россия (Ютуб без рекламы)
 vless://1728289c-723d-4132-b87b-35e03d91ca18@node5.triwords.online:443?security=reality&encryption=none&pbk=FDNVydlGzsQPCIZssIrw2MHl5tN937jYyqRVNBnGnk0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=87883dc7f1ec4145#🇳🇱 Нидерланды
 vless://d1209ffb-c159-48d5-b40d-542ce11fc768@vk-com.axinode.sbs:10965?security=reality&encryption=none&echfq=none&pbk=lHxeD2nYtDb1V7JseV-sUTEuqH6_jie7U_iOARX7cT0&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=9f3a7c6d2e8b41af#🇳🇱 Нидерланды (Резерв)
 vless://1728289c-723d-4132-b87b-35e03d91ca18@node4.triwords.online:443?security=reality&encryption=none&pbk=4k2ehAwMYFuk1A0jyQ61hBrX1KiosVHcWIKyiIerp2c&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=e259f8387ae760db#🇫🇮 Финляндия
