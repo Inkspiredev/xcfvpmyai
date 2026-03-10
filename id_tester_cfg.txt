@@ -1,6 +1,0 @@
-#profile-title:Xeno Corporation 
-#subscription-auto-update-open-enable: 1
-#profile-update-interval: 2
-#announce:⛔ Подписка отключена
-#subscription-userinfo: upload=0; download=0; total=0; expire=64175760000
-vless://0@0:443?security=reality&encryption=none&headerType=none&fp=chrome&type=tcp#⛔ Подписка отключена
