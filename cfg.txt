@@ -1,10 +1,7 @@
 #profile-title:Xeno Corporation 
 #subscription-auto-update-open-enable: 1
 #profile-update-interval: 2
-#announce:Обновить подписку - 🔄
-Проверить серверва - ⏱️
-[LTE] - Обход "белых списков"
-Не пользуйтесь российскими приложениями при включенном VPN!
+#announce:base64:ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgINCe0LHQvdC+0LLQuNGC0Ywg0L/QvtC00L/QuNGB0LrRgyAtIO2gve20hAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg0J/RgNC+0LLQtdGA0LjRgtGMINGB0LXRgNCy0LXRgNCwIC0g4o+x77iPCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFtMVEVdIC0g0J7QsdGF0L7QtCAi0LHQtdC70YvRhSDRgdC/0LjRgdC60L7QsiIK0J3QtSDQv9C+0LvRjNC30YPQudGC0LXRgdGMINGA0L7RgdGB0LjQudGB0LrQuNC80Lgg0L/RgNC40LvQvtC20LXQvdC40Y/QvNC4INC/0YDQuCDQstC60LvRjtGH0LXQvdC90L7QvCBWUE4h
 #subscription-userinfo: upload=0; download=0; total=0; expire=64175760000
 #per-app-proxy-mode: bypass
 #per-app-proxy-list: ru.oneme.app,com.vkontakte.android
