@@ -1,7 +1,7 @@
 #profile-title:Xeno Corporation 
 #subscription-auto-update-open-enable: 1
 #profile-update-interval: 2
-#announce:Просьба не заходить в российские приложения при включеном VPN!
+#announce:base64:W0xURV0gLSDQntCx0YXQvtC0ICLQsdC10LvRi9GFINGB0L/QuNGB0LrQvtCyIgrQldGB0LvQuCDQvdC40YfQtdCz0L4g0L3QtSDRgNCw0LHQvtGC0LDQtdGCINC+0LHQvdC+0LLQuNGC0LUg0L/QvtC00L/QuNGB0LrRgwrQndC1INC/0L7Qu9GM0LfRg9C50YLQtdGB0Ywg0YDQvtGB0YHQuNC50YHQutC40LzQuCDQv9GA0LjQu9C+0LbQtdC90LjRj9C80Lgg0L/RgNC4INCy0LrQu9GO0YfQtdC90L3QvtC8IFZQTiE=
 #subscription-userinfo: upload=0; download=0; total=0; expire=64175760000
 #per-app-proxy-mode: bypass
 #per-app-proxy-list: ru.oneme.app,com.vkontakte.android
@@ -13,9 +13,9 @@ vless://1728289c-723d-4132-b87b-35e03d91ca18@node6.triwords.online:443?security=
 vless://1728289c-723d-4132-b87b-35e03d91ca18@node3.triwords.online:443?security=reality&encryption=none&pbk=79iiR8pEIRbvsf5h5vt19lV1hBS96ksE9j0I_orZdiQ&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=991b16bd191bdb9a#🇸🇪 Швеция
 vless://1728289c-723d-4132-b87b-35e03d91ca18@node2.triwords.online:443?security=reality&encryption=none&pbk=MJxqDahOgbqbAzABEYPUv5x6ucv6xdLo8lSlszfB0FM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=5a70161202520213#🇩🇪 Германия
 vless://295ed7cc-3dee-4985-a81e-ecc2b741a1f1@45.83.129.31:443?security=reality&encryption=none&pbk=mJwq_1b4cJxWmLmeCh-9pmxMIFNUbZ7eayDZXpiA4Qo&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=61e6e3b8#🇩🇪 Германия (Резерв #1)
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@87.229.97.141:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🇩🇪 Германия (Резерв #2)
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@87.229.97.141:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🇩🇪 Германия (Резерв #2)
 vless://fba7dc74-ed99-07d0-8b5f-a822f254475f@109.120.189.87:443?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=d8c6b58bcbb0c323#🇷🇺 [LTE] #1
 vless://b8e03ade-a2a1-4cbb-b002-5e1148049735@51.250.5.6:8081?security=reality&encryption=none&pbk=EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14&headerType=none&fp=qq&type=tcp&sni=ads.x5.ru&sid=425ba80cd1a821a8#🇷🇺 [LTE] #2
-vless://dc1b85fd-a08e-42d7-ae2b-0a320f3399b7@est.prod.n7.homes:8443?security=reality&encryption=none&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&headerType=none&fp=qq&spx=%2F&type=tcp&sni=sun6-21.userapi.com&sid=3ca620a7ed5f3196#🇪🇪 [LTE] #3
-vless://e23765dc-5b46-4786-b4d4-f00c0942e26d@51.250.86.241:7443?security=reality&encryption=none&pbk=59iHd67rGlyJBUpDq5NXC91EB0U4AXtSlOjAQsW2D14&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru#🇳🇱 [LTE] #4
+vless://e23765dc-5b46-4786-b4d4-f00c0942e26d@51.250.86.241:7443?security=reality&encryption=none&pbk=59iHd67rGlyJBUpDq5NXC91EB0U4AXtSlOjAQsW2D14&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru#🇳🇱 [LTE] #3
+vless://d6a8b5fa-1ce6-03e8-8f98-1bbb5d182539@109.120.191.31:52006?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=qq&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=d8c6b58bcbb0c323#🇩🇪 [LTE] #4
 vless://dc1b85fd-a08e-42d7-ae2b-0a320f3399b7@de.kv.prod.n7.homes:8443?security=reality&encryption=none&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&headerType=none&fp=qq&spx=%2F&type=tcp&sni=sun6-21.userapi.com&sid=3ca620a7ed5f3196#🇩🇪 [LTE] #5
