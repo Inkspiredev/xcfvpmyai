@@ -6,7 +6,6 @@
 #per-app-proxy-mode: bypass
 #per-app-proxy-list: ru.oneme.app,com.vkontakte.android
 vless://94377095-3c3e-4051-9f41-e42c71fdf1d4@ru-medium-node-1.micvpn.xyz:443?security=reality&encryption=none&pbk=ohJF9bPuINu1oKMowgoLQek0oZpJss-0Op30eBFNWEk&headerType=none&fp=edge&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=0123456789abcdef#🇷🇺 [Wi-Fi] Russia
-vless://f6da1750-9c38-4e82-bfc0-f40968bfc755@by.telega.store:443?security=reality&encryption=none&pbk=8WQHCqfqEp4X6Jh0E-Uuvw1Z1b8p_VC3_kN1fwxfB0o&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=e31b66be0cd67c8b#🇧🇾 [Wi-Fi] Belarus
 vless://1728289c-723d-4132-b87b-35e03d91ca18@node5.triwords.online:443?security=reality&encryption=none&pbk=FDNVydlGzsQPCIZssIrw2MHl5tN937jYyqRVNBnGnk0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=87883dc7f1ec4145#🇳🇱 [Wi-Fi] Netherlands
 vless://f6da1750-9c38-4e82-bfc0-f40968bfc755@nl.telega.store:443?security=reality&encryption=none&pbk=-N_ACIqyC-nSshaHa981nv0AukU4psH4MiZRnnwfRDs&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=4073f46e24c3ff8f#🇳🇱 [Wi-Fi] Netherlands (R)
 vless://1728289c-723d-4132-b87b-35e03d91ca18@node4.triwords.online:443?security=reality&encryption=none&pbk=4k2ehAwMYFuk1A0jyQ61hBrX1KiosVHcWIKyiIerp2c&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=e259f8387ae760db#🇫🇮 [Wi-Fi] Finland
